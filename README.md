@@ -4,7 +4,7 @@ Cloud/DevOps engineer in training, transitioning from wine into cloud engineerin
 
 - ☁️ Learning and building with **Azure** (AZ-900 certified, AZ-104 in progress), **Linux**, **Docker**, **Kubernetes**, and **CI/CD**
 - 🍷 Before tech: managed a ~5,000-SKU, ~$5M wine cellar inventory for a private members' club — reconciling stock across disconnected systems taught me a lot about where processes break, which is a big part of why I'm drawn to DevOps
-- 🌏 Based in Singapore, previously worked in Bangkok, Thailand — speak English, Mandarin and Thai
+- 🌏 Based in Singapore, previously worked in Bangkok, Thailand — speaks English, Mandarin and Thai
 - 🎓 Currently working on a cloud-hosted Education Management Platform (Azure) as part of my bootcamp capstone
 - 🛠️ Next up: Terraform, Ansible, and deeper Azure administration
 
@@ -25,7 +25,6 @@ Cloud/DevOps engineer in training, transitioning from wine into cloud engineerin
 [LinkedIn](www.linkedin.com/in/henry-lim-15636212b) · [Email](mailto:henryylim01@gmail.com)
 
 ---
-*Fill in the `#` links above once your repos and LinkedIn are live.*
 
 <!--
 **therealcloudninja/therealcloudninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
