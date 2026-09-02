@@ -2,9 +2,7 @@
 
 Cloud/DevOps engineer in training, transitioning from wine into cloud engineering — currently completing an intensive Cloud/DevOps programme with **Generation Singapore** in collaboration with Microsoft (graduating Oct 2026).
 
-<div align="center" style="margin-left: -250px;">
-  <img src="https://github.com/therealcloudninja/therealcloudninja/raw/main/v3%20banner.png" alt="v3 banner" width="600">
-</div>
+![V4 Banner](https://raw.githubusercontent.com/therealcloudninja/therealcloudninja/main/v4%20banner.png)
 
 - ☁️ Learning and building with **Azure** (AZ-900 certified, AZ-104 in progress), **Linux**, **Docker**, **Kubernetes**, and **CI/CD**
 - 🍷 Before tech: managed a ~5,000-SKU, ~$5M wine cellar inventory for a private members' club — reconciling stock across disconnected systems taught me a lot about where processes break, which is a big part of why I'm drawn to DevOps
