@@ -24,7 +24,7 @@ Cloud/DevOps engineer in training, transitioning from wine into cloud engineerin
 
 ## Let's connect
 
-[LinkedIn](www.linkedin.com/in/henry-lim-15636212b) · [Email](mailto:henryylim01@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/henry-lim-15636212b) · [Email](mailto:henryylim01@gmail.com)
 
 ---
 
