@@ -2,7 +2,7 @@
 
 Cloud/DevOps engineer in training, transitioning from wine into cloud engineering — currently completing an intensive Cloud/DevOps programme with **Generation Singapore** in collaboration with Microsoft (graduating Oct 2026).
 
-<div align="center" style="margin-left: -100px;">
+<div align="center" style="margin-left: -150px;">
   <img src="https://github.com/therealcloudninja/therealcloudninja/raw/main/v3%20banner.png" alt="v3 banner" width="600">
 </div>
 
