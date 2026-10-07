@@ -12,7 +12,7 @@ Cloud/DevOps engineer in training, transitioning from wine into cloud engineerin
 
 ## Skills
 
-**Technical:** Linux · Python · Docker · Kubernetes · Microsoft Azure · Git/GitHub · Azure DevOps CI/CD · Ansible & Terraform (in progress) · Basic security hardening (ufw, fail2ban)
+**Technical:** Linux · Python · Docker · Kubernetes · Microsoft Azure · Git/GitHub · Azure DevOps CI/CD · Ansible & Terraform · Basic security hardening (ufw, fail2ban)
 
 **Also bring:** operations troubleshooting under pressure, cross-functional coordination, client-facing communication
 
