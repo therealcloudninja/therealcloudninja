@@ -1,6 +1,6 @@
    # Hello, I'm Henry aka `therealcloudninja`🥷
 
-Cloud/DevOps engineer in training, transitioning from wine into cloud engineering — completed a full time 12 weeks Cloud Support & DevOps Engineer programme in Oct 2026 with **Generation Singapore** in collaboration with Microsoft.
+Cloud/DevOps engineer in training, transitioning from wine into cloud engineering — completed a full time 12 weeks Cloud Support & DevOps Engineer programme in Oct 2026 with Generation Singapore in collaboration with Microsoft.
 
 ![V5 Banner](https://raw.githubusercontent.com/therealcloudninja/therealcloudninja/main/v5%20banner.png)
 
