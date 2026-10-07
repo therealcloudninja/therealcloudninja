@@ -1,13 +1,12 @@
    # Hello, I'm Henry aka `therealcloudninja`🥷
 
-Cloud/DevOps engineer in training, transitioning from wine into cloud engineering — currently completing the Cloud Support & DevOps Engineer programme with **Generation Singapore** in collaboration with Microsoft (graduating Oct 2026).
+Cloud/DevOps engineer in training, transitioning from wine into cloud engineering — completed a full time 12 weeks Cloud Support & DevOps Engineer programme with **Generation Singapore** in collaboration with Microsoft.
 
 ![V5 Banner](https://raw.githubusercontent.com/therealcloudninja/therealcloudninja/main/v5%20banner.png)
 
 - ☁️ Learning and building with **Azure** (AZ-900 certified, AZ-104 in progress), **Linux**, **Docker**, **Kubernetes**, and **CI/CD**
 - 🍷 Before tech: managed a ~5,000-SKU, ~$5M wine cellar inventory for a private members' club — reconciling stock across disconnected systems taught me a lot about where processes break, which is a big part of why I'm drawn to DevOps
 - 🌏 Based in Singapore, previously worked in Bangkok, Thailand — speaks English, Mandarin and Thai
-- 🎓 Currently working on a cloud-hosted Education Management Platform (Azure) as part of my bootcamp capstone and also a hybrid homelab project
 - 🏠 Building a hybrid homelab connecting a bare-meta Ubuntu edge node to Azure Kubernetes Service through Azure Arc, provisioned with Terraform and Ansible            and deployed via Azure DevOps CI/CD pipelines
 - 🛠️ Next up: deeper Azure administration (AZ-104) and Kubernetes
 
